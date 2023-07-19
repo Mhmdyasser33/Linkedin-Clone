@@ -15,8 +15,8 @@ User Profiles: Users can create and manage their profiles, including personal an
 # Technologies
 The LinkedIn clone project utilizes the following technologies:
 
-Front-end: HTML, CSS, JavaScript (React.js)  , redux 
-Back-end : firebase , i use firestore database and storage and authentication 
+## Front-end: HTML, CSS, JavaScript (React.js),redux 
+## Back-end : firebase , i use firestore database and storage and authentication 
 
 # Installation
 Clone the repository: git clone https://github.com/Mhmdyasser33/linkedin-clone

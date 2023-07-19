@@ -2,13 +2,13 @@
 This project is a LinkedIn clone, aiming to replicate the features and functionality of the popular professional networking platform LinkedIn. It provides a platform for users to connect with professionals, showcase their skills and experience, and discover job opportunities.
 
 # Table of Contents
-Features
-Technologies
-Installation
-Usage
-Contributing
-License
-Features
+Features , 
+Technologies , 
+Installation , 
+Usage , 
+Contributing , 
+License , 
+Features , 
 User Registration and Authentication: Users can create accounts, log in, and authenticate their identity. Passwords are securely stored using industry-standard encryption algorithms.
 
 User Profiles: Users can create and manage their profiles, including personal and professional information, education, work experience, skills, and interests. They can also upload a profile picture and customize their profile settings.

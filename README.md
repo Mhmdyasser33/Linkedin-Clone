@@ -15,7 +15,7 @@ User Profiles: Users can create and manage their profiles, including personal an
 # Technologies
 The LinkedIn clone project utilizes the following technologies:
 
-Front-end: HTML, CSS, JavaScript (React.js)
+Front-end: HTML, CSS, JavaScript (React.js) , 
 Back-end : firebase , i use firestore database and storage and authentication 
 
 # Installation
@@ -40,5 +40,5 @@ Create your branch: git checkout -b feature/your-feature.
 Commit your changes: git commit -am 'Add some feature'.
 Push to the branch: git push origin feature/your-feature.
 Open a pull request.
-License
+# License
 The LinkedIn clone project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
